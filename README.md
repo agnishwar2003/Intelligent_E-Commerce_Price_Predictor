@@ -97,9 +97,9 @@ Users can:
 ```
 
 📬 Contact
-📧 Email: you@example.com
+📧 Email: agnishwar.das.2003@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/yourprofile
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/agnishwar-das-715416252/)
 
 ### Acknowledgements
 
